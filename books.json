@@ -1,0 +1,20 @@
+[
+    {
+        "titre": "Il etait une fois",
+        "author": "Adel Kacimi",
+        "price": 15.44,
+        "available": true
+    },
+    {
+        "titre": "biographie d'un auteur",
+        "author": "Emilie durand",
+        "price": 6.88,
+        "available": true
+    },
+    {
+        "titre": "Il etait deux fois",
+        "author": "Stephane bern",
+        "price": 25.44,
+        "available": false
+    }
+]
